@@ -1,0 +1,6 @@
+@media (max-width: 375px) {
+    .main-head, .main-nav, .side, .ad, .main-footer {
+        display: none;
+    }
+
+}
